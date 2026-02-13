@@ -3,7 +3,7 @@
 An interactive, browser-based 3D experience inspired by the classic tale of *Beauty and the Beast*. Built entirely with **Three.js**, this project features a procedurally generated velvet rose encased in a reflective glass dome, surrounded by floating magic dust. 
 
 Move your mouse to guide a glowing fairy of light that dynamically illuminates the petals and the glass!
-![Project Preview]()
+![Project Preview](https://raw.githubusercontent.com/ravikantmahi/Eternal-Rose-3d/refs/heads/main/Screenshot%202026-02-13%20223917.png)
 
 ## 🔗 [Live Demo]()
 
