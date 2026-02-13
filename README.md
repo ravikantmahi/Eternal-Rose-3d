@@ -5,7 +5,7 @@ An interactive, browser-based 3D experience inspired by the classic tale of *Bea
 Move your mouse to guide a glowing fairy of light that dynamically illuminates the petals and the glass!
 ![Project Preview](https://raw.githubusercontent.com/ravikantmahi/Eternal-Rose-3d/refs/heads/main/Screenshot%202026-02-13%20223917.png)
 
-## 🔗 [Live Demo]()
+## 🔗 [Live Demo](https://ravikantmahi.github.io/Eternal-Rose-3d/)
 
 ## ✨ Features
 
